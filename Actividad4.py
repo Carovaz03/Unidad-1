@@ -1,0 +1,11 @@
+nombre = input("ingresar Nombre ")
+comision = input("ingresar numero de comision")
+asignatura = input("ingrear asignatura")
+docente =input("ingresar nombre del docente")
+asistencia= input("ingrear asistencia") 
+
+print("Nombre: ",(nombre))
+print("Numero de comision: ",(comision))
+print("Asignatura: ",(asignatura))
+print("Docente: ",(docente))
+print("Asistencia: ",(asistencia))
